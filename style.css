@@ -1,0 +1,13 @@
+li {
+  background-color: aqua;
+  list-style: none;
+  border: solid black;
+  border-radius: 20%;
+  margin: 70pt;
+}
+body{
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  flex-direction: column;
+}
